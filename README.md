@@ -1,2 +1,13 @@
-# laravel5-bootstrap4-auth
-Laravel 5.5 + Bootstrap 4 + Auth
+## Screenshots
+
+# Login
+![](https://imgur.com/RtNmEqT.png)
+
+# Reset Password
+![](https://imgur.com/6hFHHpL.png)
+
+# Register
+![](https://imgur.com/gF9TgqE.png)
+
+# Home
+![](https://imgur.com/wUUBWIt.png)
